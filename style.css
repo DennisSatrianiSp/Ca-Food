@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 3rem;
+  background-color: #f7fa81;
+}
+.tulisan {
+  font-family: 'Bebas Neue', cursive;
+  padding-top: 0px;
+}
+section {
+  padding-top: 5rem;
+}
+.tombol {
+  float: right;
+}
+.harga {
+  font-size: 19px;
+  color: grey;
+}
+#project {
+  background-color: #f7fa81;
+}
